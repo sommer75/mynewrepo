@@ -1,0 +1,44 @@
+.card{
+    width: 300px;
+    height: 500px;
+    border: 1px solid gray;
+    border-radius: 3%;
+    margin: auto; /*가운데정렬*/
+    background: green;
+    overflow:hidden;
+}
+
+.main_img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+}
+
+.name {
+    border-bottom: 1px solid gray;
+    width:180px;
+    font-size: 25px;
+    margin-top : 10px;
+    margin-left : 20px;
+    margin-right : 20px;
+    padding-bottom: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+.profile_img_div {
+    text-align: center;
+    background: yellow;
+    padding-top : 35px;
+    padding-bottom : 35px;
+}
+
+.intro {
+    text-align : center;
+     overflow-y:scroll;
+     height:220px;
+     padding-right:25px;
+     padding-left:25px;
+}
+
